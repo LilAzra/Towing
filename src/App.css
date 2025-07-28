@@ -148,7 +148,7 @@ header p {
 /* 📱 Responsive */
 @media (max-width: 600px) {
   .app {
-    padding: 1rem;
+    padding: 2rem;
     border-radius: 0;
     box-shadow: none;
   }
